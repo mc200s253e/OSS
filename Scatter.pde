@@ -25,7 +25,7 @@ void scatter(Movie movie) {
     //rs = random(10, 100);
     rs = noise((frameCount*10)*0.01)*100;
   }
-  int scatterAmount = int(map(arduino.analogRead(1), 0, 5, 0, maxScatter) + rs); //0 - 5 : gives an heavy scatter (knob turned left) or a light snow (knob turned left)
+  int scatterAmount = int(map(arduino.analogRead(1), 0, 5, 0, maxScatter) + rs); //0 - 5 : gives an heavy scatter (knob turned left) or a light snow (knob turned right)
   movie.loadPixels();
   //println(scatterAmount);
   for (int i = scatterAmount; i < movie.pixels.length-scatterAmount; i++) {
