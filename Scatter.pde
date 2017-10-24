@@ -12,7 +12,7 @@
 //Special thanks to Elke Langenbucher for her support and help.
 //
 //This is an open source and copyleft project.
-//I'm happy to share and spread what I've learn and the tool I created.
+//I'm happy to share and spread what I've learned and the tool I created.
 //
 // Scatter source code by Mark Kleback: https://github.com/markkleeb/VideoMixer/blob/master/scatter.pde
 
