@@ -20,7 +20,7 @@ To see the project and description in the blog, ask permission at l.segura1@stud
 blog: https://mc200s253e.wordpress.com/2017/09/29/control
 
 
-# This is an open source and copyleft project. I'm happy to share and spread what I've learn and the tool I created.
+# This is an open source and copyleft project. I'm happy to share and spread what I've learned and the tool I created.
 
 
 Participation and many thanks goes to Paul Maguire and Jennifer Sykes for their help on programming.
