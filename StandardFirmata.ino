@@ -1,4 +1,8 @@
 /*
+
+  In order to use Arduino with Processing, you must implement inside the Arduino board this .ino sketch.
+  This sketch IS NOT for Processing.
+
   Firmata is a generic protocol for communicating with microcontrollers
   from software on a host computer. It is intended to work with
   any host computer software package.
